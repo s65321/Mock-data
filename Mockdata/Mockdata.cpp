@@ -23,7 +23,7 @@ int main()
     string line;
 
     int size = 10;//default
-    cout << "please enter size"<<endl;
+    cout << "please enter size plz"<<endl;
     cin >> size;
 
     char keyword[20];
